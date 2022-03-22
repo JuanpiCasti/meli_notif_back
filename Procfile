@@ -1,2 +1,2 @@
-web: gunicorn meli-notif-back.wsgi:application
+web: gunicorn meli_notif.wsgi:application
 manage.py migrate
