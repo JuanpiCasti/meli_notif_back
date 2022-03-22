@@ -1,2 +1,3 @@
 web: gunicorn meli_notif.wsgi:application
-manage.py migrate
+python manage.py migrate
+python manage.py makemigrations
