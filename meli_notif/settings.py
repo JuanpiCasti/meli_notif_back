@@ -135,5 +135,5 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = (
-  'https://juanpicasti.github.io/meli-notif-front/',
+  'https://juanpicasti.github.io/',
 )
