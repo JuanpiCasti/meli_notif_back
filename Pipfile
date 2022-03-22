@@ -12,6 +12,8 @@ gunicorn = "*"
 install = "*"
 dj-database-url = "*"
 whitenoise = "*"
+django-heroku = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
