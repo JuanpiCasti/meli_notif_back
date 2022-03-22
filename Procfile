@@ -1,2 +1,2 @@
-web: gunicorn meli-notif-back.wsgi:applicatoin --log-file --log-level debug
+web: gunicorn meli-notif-back.wsgi:application
 manage.py migrate
