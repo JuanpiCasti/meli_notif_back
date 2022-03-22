@@ -9,6 +9,9 @@ djangorestframework = "*"
 pymysql = "*"
 mysqlclient = "*"
 gunicorn = "*"
+install = "*"
+dj-database-url = "*"
+whitenoise = "*"
 
 [dev-packages]
 
