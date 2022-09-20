@@ -1,3 +1,3 @@
 # meli_notif_back
-Simple django app to receive mercado libre notifications
+Simple django app for receiving mercado libre notifications
 
